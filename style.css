@@ -1,0 +1,35 @@
+h1{
+    color:lightblue
+}
+*{
+    border: solid
+
+}
+.background{
+    background-color: black;
+}
+
+.Designs{
+    background-color:rgb(0,0,0);
+    display: flex;
+    font-style: italic;
+    font-size:xx-large;
+}
+
+.Chemeleon{
+    background-color:rgb(0,0,0);
+  display: flex;
+  flex-flow: column;
+  font-size: xx-large;
+}
+
+.Pigeon{
+background-color:rgb(0,0,0);
+  display: flex;
+  flex-flow: column;
+  font-size: xx-large;
+
+}
+body{
+    color: white;
+}
